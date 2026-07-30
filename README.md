@@ -2,7 +2,8 @@ chatbot Home Page
 <img width="1589" height="771" alt="image" src="https://github.com/user-attachments/assets/4fc5a39b-f71e-42dc-863f-5851b457f8be" />
 
 Citizen-AI chatbot in Action
-<img width="685" height="735" alt="image" src="https://github.com/user-attachments/assets/a3949af8-7893-45a7-91e0-deca004fa6ba" />
+<img width="1597" height="742" alt="image" src="https://github.com/user-attachments/assets/26655013-6cae-4667-ba15-d5e1926f62dd" />
+
 
 
 
