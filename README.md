@@ -1,3 +1,11 @@
+chatbot Home Page
+<img width="1589" height="771" alt="image" src="https://github.com/user-attachments/assets/4fc5a39b-f71e-42dc-863f-5851b457f8be" />
+
+Citizen-AI chatbot in Action
+<img width="685" height="735" alt="image" src="https://github.com/user-attachments/assets/a3949af8-7893-45a7-91e0-deca004fa6ba" />
+
+
+
 # React + Vite + shadcn/ui Starter Template
 
 A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
