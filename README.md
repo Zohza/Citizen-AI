@@ -1,5 +1,11 @@
 # Citizen AI
 
+chatbot Home Page
+<img width="1589" height="771" alt="image" src="https://github.com/user-attachments/assets/4fc5a39b-f71e-42dc-863f-5851b457f8be" />
+
+Citizen-AI chatbot in Action
+<img width="1597" height="742" alt="image" src="https://github.com/user-attachments/assets/26655013-6cae-4667-ba15-d5e1926f62dd" />
+
 A multilingual conversational AI assistant that helps Nigerian citizens navigate government services — currently supporting **NELFUND** (Nigerian Education Loan Fund) and **CAC** (Corporate Affairs Commission).
 
 Users can ask questions about student loan applications, business registration, eligibility, fees, required documents, and application procedures. The assistant responds with citations, step-by-step checklists, and links to official portals — all in English, Pidgin, Hausa, Yoruba, or Igbo.
