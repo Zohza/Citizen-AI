@@ -1,0 +1,27 @@
+# Python virtual environment
+citi_venv/
+venv/
+env/
+.venv/
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+!backend/.env.example
+backend/server.log
+backend/server_err.log
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log

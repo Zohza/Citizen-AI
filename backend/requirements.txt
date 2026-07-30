@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langgraph
+langchain-openai
+langchain-nvidia-ai-endpoints
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+python-multipart
+python-dotenv
